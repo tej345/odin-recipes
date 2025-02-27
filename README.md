@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes: A basic recipe website using the HTML I learned in the course. 
